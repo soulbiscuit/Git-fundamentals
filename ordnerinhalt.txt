@@ -1,0 +1,11 @@
+ Datentr„ger in Laufwerk C: ist Windows
+ Volumeseriennummer: 8256-A303
+
+ Verzeichnis von C:\git
+
+21.11.2022  19:28    <DIR>          .
+21.11.2022  19:28    <DIR>          ..
+21.11.2022  19:28                 0 ordnerinhalt.txt
+21.11.2022  19:27               710 path.txt
+               2 Datei(en),            710 Bytes
+               2 Verzeichnis(se), 315ÿ180ÿ625ÿ920 Bytes frei
